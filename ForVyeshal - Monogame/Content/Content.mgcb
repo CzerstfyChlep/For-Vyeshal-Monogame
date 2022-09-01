@@ -1,0 +1,184 @@
+
+#----------------------------- Global Properties ----------------------------#
+
+/outputDir:bin/$(Platform)
+/intermediateDir:obj/$(Platform)
+/platform:Windows
+/config:
+/profile:Reach
+/compress:False
+
+#-------------------------------- References --------------------------------#
+
+
+#---------------------------------- Content ---------------------------------#
+
+#begin ../../../../../Desktop/MapFiles/BlankMap.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../../Desktop/MapFiles/BlankMap.png;MapFiles/BlankMap.png
+
+#begin ../../../../../Desktop/MapFiles/bordering.txt
+/copy:../../../../../Desktop/MapFiles/bordering.txt;MapFiles/bordering.txt
+
+#begin ../../../../../Desktop/MapFiles/CharacterList.txt
+/copy:../../../../../Desktop/MapFiles/CharacterList.txt;MapFiles/CharacterList.txt
+
+#begin ../../../../../Desktop/MapFiles/Countries.txt
+/copy:../../../../../Desktop/MapFiles/Countries.txt;MapFiles/Countries.txt
+
+#begin ../../../../../Desktop/MapFiles/CountryList.txt
+/copy:../../../../../Desktop/MapFiles/CountryList.txt;MapFiles/CountryList.txt
+
+#begin ../../../../../Desktop/MapFiles/DevelopmentList.txt
+/copy:../../../../../Desktop/MapFiles/DevelopmentList.txt;MapFiles/DevelopmentList.txt
+
+#begin ../../../../../Desktop/MapFiles/distances.txt
+/copy:../../../../../Desktop/MapFiles/distances.txt;MapFiles/distances.txt
+
+#begin ../../../../../Desktop/MapFiles/PixelList.txt
+/copy:../../../../../Desktop/MapFiles/PixelList.txt;MapFiles/PixelList.txt
+
+#begin ../../../../../Desktop/MapFiles/ProvinceCapitals.txt
+/copy:../../../../../Desktop/MapFiles/ProvinceCapitals.txt;MapFiles/ProvinceCapitals.txt
+
+#begin ../../../../../Desktop/MapFiles/ProvinceList.txt
+/copy:../../../../../Desktop/MapFiles/ProvinceList.txt;MapFiles/ProvinceList.txt
+
+#begin ../../../../../Desktop/MapFiles/Railways.txt
+/copy:../../../../../Desktop/MapFiles/Railways.txt;MapFiles/Railways.txt
+
+#begin ../../../../../Desktop/MapFiles/RegionList.txt
+/copy:../../../../../Desktop/MapFiles/RegionList.txt;MapFiles/RegionList.txt
+
+#begin ../../../../../Desktop/MapFiles/star.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../../Desktop/MapFiles/star.png;ProvinceFiles/star.png
+
+#begin ../../../../../Desktop/MapFiles/TerrainList.txt
+/copy:../../../../../Desktop/MapFiles/TerrainList.txt;MapFiles/TerrainList.txt
+
+#begin ../../../../../Desktop/MapFiles/TradegoodsList.txt
+/copy:../../../../../Desktop/MapFiles/TradegoodsList.txt;MapFiles/TradegoodsList.txt
+
+#begin ../../../../../Desktop/MapFiles/unitposition.txt
+/copy:../../../../../Desktop/MapFiles/unitposition.txt;MapFiles/unitposition.txt
+
+#begin ../../../../../Desktop/MapFiles/Units.txt
+/copy:../../../../../Desktop/MapFiles/Units.txt;MapFiles/Units.txt
+
+#begin ../../../../../Desktop/MapFiles/Units/SoldierCivilized.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../../Desktop/MapFiles/Units/SoldierCivilized.png;UnitFiles/SoldierCivilized.png
+
+#begin ../../../../../Desktop/MapFiles/Units/SoldierCommonfolk.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../../Desktop/MapFiles/Units/SoldierCommonfolk.png;UnitFiles/SoldierCommonfolk.png
+
+#begin ../../../../../Desktop/MapFiles/Units/SoldierGeneric.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../../Desktop/MapFiles/Units/SoldierGeneric.png;UnitFiles/SoldierGeneric.png
+
+#begin ../../../../../Desktop/MapFiles/Units/SoldierKSR.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../../Desktop/MapFiles/Units/SoldierKSR.png;UnitFiles/SoldierKSR.png
+
+#begin ../../../../../Desktop/MapFiles/Units/SoldierLongcoats.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../../Desktop/MapFiles/Units/SoldierLongcoats.png;UnitFiles/SoldierLongcoats.png
+
+#begin ../../../../../Desktop/MapFiles/Units/SoldierNoe.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../../Desktop/MapFiles/Units/SoldierNoe.png;UnitFiles/SoldierNoe.png
+
+#begin Font12.spritefont
+/importer:FontDescriptionImporter
+/processor:FontDescriptionProcessor
+/processorParam:PremultiplyAlpha=True
+/processorParam:TextureFormat=Compressed
+/build:Font12.spritefont
+
+#begin Font16.spritefont
+/importer:FontDescriptionImporter
+/processor:FontDescriptionProcessor
+/processorParam:PremultiplyAlpha=True
+/processorParam:TextureFormat=Compressed
+/build:Font16.spritefont
+
+#begin Font24.spritefont
+/importer:FontDescriptionImporter
+/processor:FontDescriptionProcessor
+/processorParam:PremultiplyAlpha=True
+/processorParam:TextureFormat=Compressed
+/build:Font24.spritefont
+
+#begin Font8.spritefont
+/importer:FontDescriptionImporter
+/processor:FontDescriptionProcessor
+/processorParam:PremultiplyAlpha=True
+/processorParam:TextureFormat=Compressed
+/build:Font8.spritefont;Font10.spritefont
+
